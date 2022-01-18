@@ -32,3 +32,11 @@ For example, this is a helpful note:
 > "File includes multiple meows with 2 seconds of silence between each. Whole file is peak normalized to loudest sound in clip"
 
 If you have any questions about the asset list, please open a github issue on this repo, and mention @nharsch in the comment.
+
+## How to edit .tsv files
+
+`.tsv` files are plain text files for tabular data. They can be opened with spreadsheet apps like Excel, Numbers, and/or Google Sheets. If you use spreadsheet apps to edit the Asset List, be sure that you Save As or Export a tsv file. 
+
+Here's a [quick video](https://www.youtube.com/watch?v=XbXL-ZrprCw) on how to import and export TSV files with Google Sheets.
+
+Since TSV files are plain text, they can be edited with any text editor. Each column in a row is separated by a tab, each row separated by a line break.
