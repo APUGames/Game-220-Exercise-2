@@ -25,7 +25,7 @@ Some `Designer Notes` are included for a couple sounds. Please read these.
 
 If needed, please leave any notes on the sounds provided in the `Sound Designer Notes` field.
 
-Notes should be clear in meaning and directed toward the Game Designer in how to use the sound.
+**Update `asset-list.tsv` with the filename, and any notes you have for the game designer.** Notes should be clear in meaning and directed toward the Game Designer in how to use the sound.
 
 For example, this is a helpful note:
 
