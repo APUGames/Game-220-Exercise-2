@@ -1,7 +1,7 @@
 Asset Name	Description	Filename	Game Designer Notes	Sound Designer Notes
-Kitten meow	Sound of a small kitten meowing			
-Momma cat meow	Sound of an adult cat meowing		This will happen several times in gameplay. If possible, provide one clip with different variations. Should sound like the same cat.	
-Momma cat purr	Sound of an adult cat purring			
-Can opening	sound of a can being opened		In game, the can is opened with a manual can opener	
-Spoon on cat dish	sound of a spoon being tapped a couple times on a cat food bowl			
-Doorbell	sound of a doorbell			
+Kitten meow	Sound of a small kitten meowing	Kitten_Meow		
+Momma cat meow	Sound of an adult cat meowing	Cat_Meow	This will happen several times in gameplay. If possible, provide one clip with different variations. Should sound like the same cat.	
+Momma cat purr	Sound of an adult cat purring	Cat_purr		
+Can opening	sound of a can being opened	Can_Opener	In game, the can is opened with a manual can opener	
+Spoon on cat dish	sound of a spoon being tapped a couple times on a cat food bowl	Spoon		
+Doorbell	sound of a doorbell	Doorbell		
